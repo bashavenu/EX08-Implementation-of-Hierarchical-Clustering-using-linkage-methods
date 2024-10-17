@@ -9,7 +9,7 @@ To implement Hierarchical Clustering using single and complete linkage method
 
 ## Algorithm
 
-
+S
 ## Program:
 ```
 /*
